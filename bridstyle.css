@@ -1,0 +1,55 @@
+body
+{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+    color: lightgoldenrodyellow;
+}
+
+table
+{
+    margin: auto;
+    height: 600px;
+    width: 800px;
+    border: 1px solid black;
+}
+
+tbody td
+{
+    width: 33%;
+}
+
+td
+{
+    border: 1px solid black;
+}
+
+.birds
+{
+    text-align: center;
+}
+
+#head
+{
+    text-align: center;
+}
+
+#footer
+{
+    text-align: center;
+}
+
+thead
+{
+    height: 10%;  
+}
+
+tbody
+{
+    height: 80%;
+}
+
+tfoot
+{
+    height: 10%;
+}
